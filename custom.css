@@ -9,3 +9,21 @@
 .backdrop{
   background-color: rgba(219, 217, 218, 0.33) !important;
 }
+.nav-bar .nav > .entry .entryLbl, .nav-bar .dropdown-toggle {
+    color: #ffffff;
+    background-color: #4697a3 !important;
+}
+}
+.nav-bar .nav .dropdown:not(.active)hover .dropdown-toggle, .nav-bar li:not(.active)
+ .entryLbl:hover  {
+    color: #ffffff;
+    background-color: #4697a3 !important;
+}
+.nav-bar .entry.active > .entryLbl, .nav-bar .dropdown.active .dropdown-toggle {
+    color: #ed8b39;
+    background-color: #f5df9c !important;
+}
+.nav-bar .entry.active > .entryLbl, .nav-bar .dropdown.active .dropdown-toggle {
+      color: #ed8b39 !important;
+    background-color: #68B9D2;
+}
