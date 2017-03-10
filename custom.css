@@ -27,3 +27,9 @@
       color: #ed8b39 !important;
     background-color: #68B9D2;
 }
+#headerMobile{
+  background-color: #ffffff !important;
+  background-image: url(img/titulo.png);
+ background-size: contain;
+ background-repeat: no-repeat;
+}
